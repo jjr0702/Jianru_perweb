@@ -9,20 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<iframe src="/files/Jianru_Jing_Resume.pdf" width="100%" height="900px"></iframe>
 
-Work experience
+<!-- Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Shanghai D-TNRIUG Technology Co., Ltd
+  * Redesigned thermal zoning for multiple factory buildings to improve the accuracy of models and control strategies, and calibrated thermal zones in the original EnergyPlus models
+  * Developed and tested a parametric modeling interface in a Docker environment to enable coupled simulations between EnergyPlus and Modelica
+  * Implemented Python scripts based on hybrid models to conduct error analysis and sensitivity testing, validating
+model accuracy and robustness under varying load conditions -->
 
-* Fall 2015: Research Assistant
+
+<!-- * Fall 2015: Research Assistant
   * GitHub University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
@@ -30,18 +28,18 @@ Work experience
 * Summer 2015: Research Assistant
   * GitHub University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Git -->
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -61,4 +59,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
