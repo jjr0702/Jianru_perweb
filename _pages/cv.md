@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="/files/Jianru_Jing_Resume.pdf" width="100%" height="900px"></iframe>
+<iframe src="{{ '/files/Jianru_Jing_Resume.pdf' | relative_url }}" width="100%" height="900px"></iframe>
 
 <!-- Work experience
 ======
